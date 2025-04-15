@@ -81,7 +81,7 @@ export default {
 
     h1 {
       text-align: center;
-      color: #2c3e50;
+      color: #fff;
       width: 100%;
       margin-bottom: 20px;
     }
